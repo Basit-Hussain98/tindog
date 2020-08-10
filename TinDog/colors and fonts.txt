@@ -1,0 +1,5 @@
+header background-color:#ff4c68
+font-family:Ubantu(nav-bar) and montserrat(black for h1)
+icons:apple,android, check-circle, bullseye and heart.
+feature icon color:5:41 PM 8/5/2020
+http://ktech2k19.herokuapp.com/main.php
